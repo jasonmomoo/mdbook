@@ -1,0 +1,6 @@
+[book]
+authors = ["jasonmomoo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "testbook 知識庫"
